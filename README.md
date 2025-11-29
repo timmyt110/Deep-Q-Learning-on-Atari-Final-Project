@@ -1,4 +1,4 @@
-# Deep-Q-Learning-on-Atari-Final-Project
+# Deep Q-Learning on Atari Final Project
 ## Early vs Later 
 
 Watch how performance improves as training progresses:
