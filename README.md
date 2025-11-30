@@ -7,9 +7,12 @@ Watch how performance improves as training progresses:
 ### ALE/Mario-V5
 | Episode    | Model             | Preview                                             | Video |
 |------------|-------------------|-----------------------------------------------------|-------|
-| Early      | Near-random       | <img src="src/early_pong.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/early_seaquest.mp4)    |
-| Later      | DQN               | <img src="src/later_baseline.png" width="120"/>   | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
-| Later      | DDQN              | <img src="src/later_DDQN.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+| Early      | DQN       | <img src="src/early_mario_DQN.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/f53a75e4-d522-42d5-809f-a70978024860" target="_blank">▶ Watch</a> |
+| Later      | DQN               | <img src="src/later_mario_DQN.png" width="120"/>   | <a href="https://github.com/user-attachments/assets/085d5fa9-a372-4724-b6e8-d4e25ca02376" target="_blank">▶ Watch</a> |
+| Early      | DDQN (250k)       | <img src="src/early_mario_205k.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
+| Later      | DDQN (250k)       | <img src="src/later_mario_205k.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
+| Early      | DDQN (305k)       | <img src="src/early_mario_305k.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
+| Later      | DDQN (305k)       | <img src="src/later_mario_305k.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
 
 
 
@@ -18,6 +21,6 @@ Watch how performance improves as training progresses:
 | Episode    | Model             | Preview                                             | Video |
 |------------|-------------------|-----------------------------------------------------|-------|
 | Early      | Near-random       | <img src="src/early_pong.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/f53a75e4-d522-42d5-809f-a70978024860" target="_blank">▶ Watch</a> |
-| Later      | DQN               | <img src="src/later_baseline.png" width="120"/>   | <a href="https://github.com/user-attachments/assets/085d5fa9-a372-4724-b6e8-d4e25ca02376" target="_blank">▶ Watch</a> |
-| Later      | DDQN              | <img src="src/later_DDQN.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
+| Later      | DQN (50k)         | <img src="src/later_baseline.png" width="120"/>   | <a href="https://github.com/user-attachments/assets/085d5fa9-a372-4724-b6e8-d4e25ca02376" target="_blank">▶ Watch</a> |
+| Later      | DDQN(50k)         | <img src="src/later_DDQN.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
  
