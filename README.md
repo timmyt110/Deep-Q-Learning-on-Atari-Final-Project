@@ -5,15 +5,19 @@ Objective: This project aims to implement and analyze Deep Q-Networks (DQN) and 
 Watch how performance improves as training progresses:
 
 ### ALE/Mario-V5
-| Episode    | Model             | Preview                                      | Video |
-|------------|-------------------|----------------------------------------------|-------|
-| Early      | Near-random       | <img src="src/early_sequest_img.png" width="120"/> | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/early_seaquest.mp4)  |
-| Later      | DDQN      | <img src="src/improved_sequest_img.png" width="120"/>| [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
- 
-### ALE/Pong-V5
 | Episode    | Model             | Preview                                             | Video |
 |------------|-------------------|-----------------------------------------------------|-------|
 | Early      | Near-random       | <img src="src/early_pong.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/early_seaquest.mp4)    |
 | Later      | DQN               | <img src="src/later_baseline.png" width="120"/>   | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
-| Later      | DDQN               | <img src="src/later_DDQN.png" width="120"/>      | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+| Later      | DDQN              | <img src="src/later_DDQN.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+
+
+
+ 
+### ALE/Pong-V5
+| Episode    | Model             | Preview                                             | Video |
+|------------|-------------------|-----------------------------------------------------|-------|
+| Early      | Near-random       | <img src="src/early_pong.png" width="120"/>       | <a href="https://everestso.github.io/summer25/ALE_Pong-v5-best_-20-test_epsdec150000_rs10000_sync1000-episode-1.mp4" target="_blank">▶ Watch</a> |
+| Later      | DQN               | <img src="src/later_baseline.png" width="120"/>   | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+| Later      | DDQN              | <img src="src/later_DDQN.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
  
