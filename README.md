@@ -25,5 +25,5 @@ Watch how performance improves as training progresses:
 | Later      | DDQN(50k)         | <img src="src/later_DDQN.png" width="120"/>         | <a href="https://github.com/user-attachments/assets/1695059b-d334-447c-87c3-fad1ab3d9825" target="_blank">▶ Watch</a> |
 | Early      | Near-random (50k) | <img src="src/early_pong_v2.png" width="120"/>      | <a href="https://github.com/user-attachments/assets/0ff3fce5-7ff6-49b1-b19f-be2a90cc00e5" target="_blank">▶ Watch</a> |
 | Later      | DQN(50k + change in learning rate + start time)  | <img src="src/later_baseline2.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/fbe71fd4-9084-4dfd-bbb7-52fa1652d607" target="_blank">▶ Watch</a> |
-| Later      | DDQN (50k + change in learning rate + start time)| <img src="src/later_DDQN_v2.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/11dc55c5-f96d-4fce-93c5-69e27d38b551" target="_blank">▶ Watch</a> |
+| Later      | DDQN (50k + change in learning rate + start time)| <img src="src/later_DQNN_v2.png" width="120"/>       | <a href="https://github.com/user-attachments/assets/11dc55c5-f96d-4fce-93c5-69e27d38b551" target="_blank">▶ Watch</a> |
  
