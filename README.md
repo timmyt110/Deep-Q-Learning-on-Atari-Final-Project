@@ -13,7 +13,7 @@ Watch how performance improves as training progresses:
 ### ALE/Pong-V5
 | Episode    | Model             | Preview                                             | Video |
 |------------|-------------------|-----------------------------------------------------|-------|
-| Early      | Near-random       | <img src="src/early_pong.png" width="120"/> | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/early_seaquest.mp4)  |
-| Later      | DQN               | <img src="src/later_baseline.png" width="120"/>| [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
-| Later      | DDQN               | <img src="src/later_DDQN.png" width="120"/>| [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+| Early      | Near-random       | <img src="src/early_pong.png" width="120"/>       | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/early_seaquest.mp4)    |
+| Later      | DQN               | <img src="src/later_baseline.png" width="120"/>   | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
+| Later      | DDQN               | <img src="src/later_DDQN.png" width="120"/>      | [▶ Watch](https://github.com/timmyt110/CS166_Fall2025/blob/main/src/improved_seaquest.mp4) |
  
